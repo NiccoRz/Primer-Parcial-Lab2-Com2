@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665937853 source:c:\users\nicor\desktop\parcial lab 2 com 10\parcialcom2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
